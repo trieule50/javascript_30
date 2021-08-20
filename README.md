@@ -32,3 +32,36 @@ From this project, I have learned:
 
 ### Day 4 - Array Cardio Day 1
 #### Learning Experience
+From this project, I solidify my understanding of the following array methods:
+
+**Filer**
+The filter method creates a **new array** that pass the text implemented by the function.
+```JS
+.filter((element, index, array) =>{
+
+}, thisArg)
+```
+
+**Map**
+The map method creates a **new array** with the results of calling a provided function on each element.
+```JS
+.map((element, index, array) =>{
+
+})
+```
+
+**Sort**
+The sort method sorts the element of an array **in place** and return a sorted array.
+```JS
+.sort((firstEl, secondEl) => {
+
+} )
+```
+
+**Reduce**
+The reduce method executes a user-supplied 'reducer' callback function.
+```JS
+.reduce((previousValue, currentValue, currentIndex, array) => {
+    
+}, initialValue)
+```
