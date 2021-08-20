@@ -25,3 +25,5 @@ Transitions: Allows property changes in CSS to occur smoothly over a specified d
 
 Date: In this project, Date was called as a constructor as well as use serials of methods i.e `<getSeconds()>`, `<getMinutes()>`, `<getHours()>`
 
+### Day 3 - Playing with CSS Variables and JS
+#### Learning Experience
