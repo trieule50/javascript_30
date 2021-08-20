@@ -27,3 +27,5 @@ Date: In this project, Date was called as a constructor as well as use serials o
 
 ### Day 3 - Playing with CSS Variables and JS
 #### Learning Experience
+From this project, I have learned:
+1. `<this.dataset>` is a read-only property of HTML element that provides read/write access to custom data attributes. `<this.dataset>` return an object.
