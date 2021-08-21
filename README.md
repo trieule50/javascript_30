@@ -32,7 +32,7 @@ From this project, I have learned:
 
 ### Day 4 - Array Cardio Day 1
 #### Learning Experience
-From this project, I solidify my understanding of the following array methods:
+c
 
 **Filer**
 The filter method creates a **new array** that pass the text implemented by the function.
@@ -67,3 +67,11 @@ The reduce method executes a user-supplied 'reducer' callback function.
 ```
 ### Day 5 - Flex Panel Gallery
 #### Learning Experience
+From this project, I solidify my understanding of flexbox and learned another way to use transition. 
+
+New terms learned:
+
+**Flex** is a CSS shorthand property that sets how an flex item will grow or shrink to fit the container.
+
+**translateY** is a function that repositions an element vertically on a 2D plan.
+
