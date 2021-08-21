@@ -65,3 +65,5 @@ The reduce method executes a user-supplied 'reducer' callback function.
     
 }, initialValue)
 ```
+### Day 5 - Flex Panel Gallery
+#### Learning Experience
