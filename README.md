@@ -74,4 +74,5 @@ New terms learned:
 **Flex** is a CSS shorthand property that sets how an flex item will grow or shrink to fit the container.
 
 **translateY** is a function that repositions an element vertically on a 2D plan.
-
+### Day 6 - Ajax Type Ahead
+#### Learning Experience
