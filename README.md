@@ -76,3 +76,13 @@ New terms learned:
 **translateY** is a function that repositions an element vertically on a 2D plan.
 ### Day 6 - Ajax Type Ahead
 #### Learning Experience
+From this project, I have learned the object RegExp.
+
+**RegExp / Regular Expressions** is used for matching text with a pattern. 
+
+Syntax for RegExp: `</pattern/modifiers>`
+
+Modifiers includes:
+- "g" : Perform global match
+- "i" : Perform case-insentive matching
+- "m" : Perform multiline matching
