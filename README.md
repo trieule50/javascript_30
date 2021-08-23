@@ -32,7 +32,6 @@ From this project, I have learned:
 
 ### Day 4 - Array Cardio Day 1
 #### Learning Experience
-c
 
 **Filer**
 The filter method creates a **new array** that pass the text implemented by the function.
@@ -88,3 +87,34 @@ Modifiers includes:
 - "m" : Perform multiline matching
 ### Day 7 - Array Cardio Day 2
 #### Learning Experience
+
+**Some**
+The some method tests whether at least one element in the array pass the test implemented.
+```JS
+.some((element, index, array) =>{
+
+})
+```
+
+**Every**
+The every method tests whether all elements in the array pass the test implemented.
+```JS
+.every((element, index, array) =>{
+
+})
+```
+
+**Find**
+The find method returns the value of the first element that satisfies the provided testing function. If no values satify, underfinded is returned.
+```JS
+.find((element, index, array) =>{
+
+})
+```
+**FindIndex**
+The findIndex method returns the index of the first elementt that satisfies the provided testing function. If no element satify, -1 is returned.
+```JS
+.findIndex((element, index, array) =>{
+
+})
+```
