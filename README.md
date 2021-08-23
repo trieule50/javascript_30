@@ -120,3 +120,20 @@ The findIndex method returns the index of the first elementt that satisfies the 
 ```
 ### Day 8 - Fun with HTML5 Canvas
 #### Learning Experience
+
+
+**getContext**
+The getContext method returns a drawing context on the canvas.
+```JS
+let ctx = canvas.getContext(contextType, contextAttributes);
+```
+**lineJoin**
+- is a property of canvas 2D to determine the shape used to join two line.
+```JS
+ctx.lineJoin = "bevel" || "round" || "miter";
+```
+**lineCap**
+- is a property of canvas 2D to determine the shape used to draw the end points of lines.
+```JS
+ctx.lineCap = "butt" || "round" || "square";
+```
