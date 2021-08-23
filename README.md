@@ -118,3 +118,5 @@ The findIndex method returns the index of the first elementt that satisfies the 
 
 })
 ```
+### Day 8 - Fun with HTML5 Canvas
+#### Learning Experience
