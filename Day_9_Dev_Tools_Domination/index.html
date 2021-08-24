@@ -38,12 +38,16 @@
     // Testing
     console.assert(1 === 1, 'That is wrong!')
 
+    const p = document.querySelector('p');
+
+    console.assert(p.classList.contains('ouch'), 'That is wrong!');
+
     // clearing
     // console.clear()
 
     // Viewing DOM Elements
     // console.log(p)
-    // console.dir(p);
+    console.dir(p);
 
     // Grouping together
     dogs.forEach(dog =>{
