@@ -121,7 +121,6 @@ The findIndex method returns the index of the first elementt that satisfies the 
 ### Day 8 - Fun with HTML5 Canvas
 #### Learning Experience
 
-
 **getContext**
 The getContext method returns a drawing context on the canvas.
 ```JS
@@ -137,3 +136,6 @@ ctx.lineJoin = "bevel" || "round" || "miter";
 ```JS
 ctx.lineCap = "butt" || "round" || "square";
 ```
+
+### Day 9 - Dev Tools Domination
+#### Learning Experience
