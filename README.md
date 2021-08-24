@@ -139,3 +139,17 @@ ctx.lineCap = "butt" || "round" || "square";
 
 ### Day 9 - Dev Tools Domination
 #### Learning Experience
+
+From this project, I have learned different methods to the console object.
+
+`<console.assert>` - log a message if the first arguement is false.
+
+`<console.clear>` - clear the console
+
+`<console.count>` - log the time the line is being called
+
+`<console.group>` - create an new inline group
+
+`<console.info>` - informative logging of information.
+
+`<console.time>` - starts a timer with a name specified as an input parameter.
