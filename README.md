@@ -153,3 +153,6 @@ From this project, I have learned different methods to the console object.
 `<console.info>` - informative logging of information.
 
 `<console.time>` - starts a timer with a name specified as an input parameter.
+
+### Day 10 - Hold Shift and Check Checkboxes
+#### Learning Experience
