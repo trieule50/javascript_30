@@ -163,3 +163,9 @@ One big take away from this project is the function `<this>` keyword.
 
 ### Day 11 - Custom Video Player
 #### Learning Experience
+From this project, I learned to word with mp3 files / HTML Media Element. 
+
+**Syntax**
+```JS
+var isPaused = audioOrVideo.paused
+```
