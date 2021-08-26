@@ -160,3 +160,6 @@ From this project, I have learned different methods to the console object.
 One big take away from this project is the function `<this>` keyword.
 
 `<this>` is a reference to an object and in strict mode.
+
+### Day 11 - Custom Video Player
+#### Learning Experience
