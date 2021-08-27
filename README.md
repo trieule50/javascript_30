@@ -172,3 +172,7 @@ var isPaused = audioOrVideo.paused
 
 ### Day 12 - Key Sequence Detection
 #### Learning Experience
+
+From this project, I solidify my understanding of `<e.key>`. 
+
+`<e.key>` - is a read-only property that returns the valus of the key pressed by the user.
