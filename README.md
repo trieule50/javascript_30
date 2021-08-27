@@ -169,3 +169,6 @@ From this project, I learned to word with mp3 files / HTML Media Element.
 ```JS
 var isPaused = audioOrVideo.paused
 ```
+
+### Day 12 - Key Sequence Detection
+#### Learning Experience
