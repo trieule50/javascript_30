@@ -176,3 +176,6 @@ var isPaused = audioOrVideo.paused
 From this project, I solidify my understanding of `<e.key>`. 
 
 `<e.key>` - is a read-only property that returns the valus of the key pressed by the user.
+
+### Day 13 - Slide in on Scroll
+#### Learning Experience
