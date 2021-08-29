@@ -185,3 +185,6 @@ From this project, I learned the following term and concepts:
 `<debounce>` - is a function that makes the code is only triggered once per user input. This is useful in search box-suggestions, text-field auto saves and image scroll in.
 
 `<offsetTop>` - is a read-oly property that returns the distance of the outer border of the current element relative to the inner border of the top of the offset parent node.
+
+### Day 14 - JS References VS Coding
+#### Learning Experience
