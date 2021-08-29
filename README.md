@@ -188,3 +188,5 @@ From this project, I learned the following term and concepts:
 
 ### Day 14 - JS References VS Coding
 #### Learning Experience
+
+From this project, I solidify my understanding of creating a copy of an array and object. 
