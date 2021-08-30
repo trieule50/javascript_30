@@ -193,3 +193,7 @@ From this project, I solidify my understanding of creating a copy of an array an
 
 ### Day 15 - LocalStorage and Event Delegation
 #### Learning Experience
+
+From this project, I solidify my understanding of local storage and learned the following: event delegation.
+
+Instead of attaching event listeners directly to the buttons, you delegate the listening to the parent.
