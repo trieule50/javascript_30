@@ -190,3 +190,6 @@ From this project, I learned the following term and concepts:
 #### Learning Experience
 
 From this project, I solidify my understanding of creating a copy of an array and object. 
+
+### Day 15 - LocalStorage and Event Delegation
+#### Learning Experience
