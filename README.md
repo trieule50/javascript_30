@@ -197,3 +197,6 @@ From this project, I solidify my understanding of creating a copy of an array an
 From this project, I solidify my understanding of local storage and learned the following: event delegation.
 
 Instead of attaching event listeners directly to the buttons, you delegate the listening to the parent.
+
+### Day 16 - CSS Text Shadow Mouse Move Effect
+#### Learning Experience
