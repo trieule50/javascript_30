@@ -200,3 +200,5 @@ Instead of attaching event listeners directly to the buttons, you delegate the l
 
 ### Day 16 - CSS Text Shadow Mouse Move Effect
 #### Learning Experience
+
+From this project, I solidify my understanding of x and y values and then convert it to text shadow pixals.
