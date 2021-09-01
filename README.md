@@ -205,3 +205,12 @@ From this project, I solidify my understanding of x and y values and then conver
 
 ### Day 17 - Sorting Band Names without Articles
 #### Learning Experience
+From this project, I learned RegExp to ignore articles to return a sorted list. 
+
+```JS
+.replace(/^(a |the |an)/i, '').trim()
+```
+
+RegExp is an object that is used for matching text with a pattern. 
+
+`<trim>`: is a method the removes whitespace from both ends of a string.
