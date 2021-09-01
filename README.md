@@ -202,3 +202,6 @@ Instead of attaching event listeners directly to the buttons, you delegate the l
 #### Learning Experience
 
 From this project, I solidify my understanding of x and y values and then convert it to text shadow pixals.
+
+### Day 17 - Sorting Band Names without Articles
+#### Learning Experience
