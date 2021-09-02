@@ -214,3 +214,6 @@ From this project, I learned RegExp to ignore articles to return a sorted list.
 RegExp is an object that is used for matching text with a pattern. 
 
 `<trim>`: is a method the removes whitespace from both ends of a string.
+
+### Day 18 - Adding Up Times with Reduce
+#### Learning Experience
