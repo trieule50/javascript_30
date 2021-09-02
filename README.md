@@ -217,3 +217,7 @@ RegExp is an object that is used for matching text with a pattern.
 
 ### Day 18 - Adding Up Times with Reduce
 #### Learning Experience
+
+From this project, I solidify my understanding of the reduce method. 
+
+One thing to watch out is whether the function will return a node list or an array.
