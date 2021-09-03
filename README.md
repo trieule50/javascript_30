@@ -224,3 +224,7 @@ One thing to watch out is whether the function will return a node list or an arr
 
 ### Day 19 - Webcam Fun
 #### Learning Experience
+
+`<.getUserMedia()>` method prompts the user for permission to use a media input.
+
+`<.toDataURL()>` method return a data URI containing a representation of the image.
