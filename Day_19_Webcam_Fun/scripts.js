@@ -33,3 +33,5 @@ function takePhoto(){
 }
 
 getVideo();
+
+video.addEventListener('canplay', paintToCanavas);
