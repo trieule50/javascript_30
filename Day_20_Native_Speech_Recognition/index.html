@@ -24,7 +24,14 @@
         .map(result => result[0])
         .map(result => result.transcript)
         .join('')
+
+        const poopScript = transcript.replace(/poop|poo|shit|dump/gi, '💩');
+      p.textContent = poopScript;
+
+
   })
+
+  recognition.addEventListener('end', recognition.start)
 
   recognition.start();
 
