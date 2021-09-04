@@ -231,3 +231,5 @@ One thing to watch out is whether the function will return a node list or an arr
 
 ### Day 20 - Speech Detection
 #### Learning Experience
+
+SpeechRecognition is the controller interface for the recognition service.
