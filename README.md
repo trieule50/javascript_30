@@ -233,3 +233,8 @@ One thing to watch out is whether the function will return a node list or an arr
 #### Learning Experience
 
 SpeechRecognition is the controller interface for the recognition service.
+
+### Day 21 - Geolocation
+#### Learning Experience
+
+Goelocation allows the user to provide their location to web applications.
