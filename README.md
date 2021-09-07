@@ -240,5 +240,7 @@ SpeechRecognition is the controller interface for the recognition service.
 Goelocation allows the user to provide their location to web applications.
 
 
-### Day 22 - Geolocation
+### Day 22 - Follow Along Links
 #### Learning Experience
+
+`<Element.getBoundingClientRect()>` is a method that returns a DOMRect object providing information about the size of an element and its position relative to the viewport.
