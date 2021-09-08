@@ -40,6 +40,9 @@
 
   function populateVoices(){
       voices = this.getVoices();
+      const voiceOptions = voices
+        .map(voice => `<option value="${voice.name}">${voice.name} (${voice.lang})</option>`)
+        .join('');
   }
 
   speechSynthesis.addEventListener('voiceschanged', populateVoices);
