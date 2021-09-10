@@ -50,6 +50,10 @@ html {
     z-index: 1;
   }
 
+  .fixed-nav {
+      padding-top: 64px;
+  }
+
   .fixed-nav nav{
       position: fixed;
       box-shadow: 0 5px rgba(0,0,0,0.1);
@@ -77,6 +81,10 @@ html {
     transition: all .5s;
     font-weight: 600;
     font-size: 30px;
+  }
+
+  .fixed-nav li.logo {
+      max-width: 500px;
   }
   
   li.logo a {
