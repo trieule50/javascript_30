@@ -256,7 +256,7 @@ SpeechSynthesisUtterance is a Web Speech API represent a speech request.
 Function.prototype.bind()
 ```
 
-
 ### Day 24 - Sticky Nav
 #### Learning Experience
 
+From this project, I solidify my understanding of the creating a sticky nav with only javascript and css. 
