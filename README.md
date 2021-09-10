@@ -260,3 +260,6 @@ Function.prototype.bind()
 #### Learning Experience
 
 From this project, I solidify my understanding of the creating a sticky nav with only javascript and css. 
+
+### Day 25 - Event Capture, Propagation, Bubbling and Once
+#### Learning Experience
