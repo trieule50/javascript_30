@@ -245,7 +245,7 @@ Goelocation allows the user to provide their location to web applications.
 
 `<Element.getBoundingClientRect()>` is a method that returns a DOMRect object providing information about the size of an element and its position relative to the viewport.
 
-### Day 22 - Speech Synthesis
+### Day 23 - Speech Synthesis
 #### Learning Experience
 
 SpeechSynthesisUtterance is a Web Speech API represent a speech request.
@@ -255,3 +255,8 @@ SpeechSynthesisUtterance is a Web Speech API represent a speech request.
 ```JS
 Function.prototype.bind()
 ```
+
+
+### Day 24 - Sticky Nav
+#### Learning Experience
+
