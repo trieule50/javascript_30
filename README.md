@@ -263,3 +263,7 @@ From this project, I solidify my understanding of the creating a sticky nav with
 
 ### Day 25 - Event Capture, Propagation, Bubbling and Once
 #### Learning Experience
+
+`<once>` is a function that is used in conditions where we want a particular function to be executed only a single time.
+
+`<bubbling>` is when an event happens on an element, it first runs the handlers on it, and then on its parents, then its ancestors
