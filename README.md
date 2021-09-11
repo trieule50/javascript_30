@@ -270,3 +270,5 @@ From this project, I solidify my understanding of the creating a sticky nav with
 
 ### Day 26 - Stripe Follow Along Nav
 #### Learning Experience
+
+This project is a continuation of Day 22 - following allow links.
