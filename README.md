@@ -272,3 +272,6 @@ From this project, I solidify my understanding of the creating a sticky nav with
 #### Learning Experience
 
 This project is a continuation of Day 22 - following allow links.
+
+### Day 27 - Click and Drag
+#### Learning Experience
