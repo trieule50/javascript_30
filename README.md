@@ -275,3 +275,5 @@ This project is a continuation of Day 22 - following allow links.
 
 ### Day 27 - Click and Drag
 #### Learning Experience
+
+`<e.papeX>` is a read only property of the mouseevent interface returns the X horizontal coordinate in pixels at which the mouse was clicked. 
