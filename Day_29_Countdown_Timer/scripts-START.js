@@ -10,3 +10,7 @@ function timer(seconds){
         }
     }, 1000)
 }
+
+function displayTimeLeft(seconds){
+    
+}
